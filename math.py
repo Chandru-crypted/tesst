@@ -2,6 +2,10 @@
 # I have to do 
 
 def add(x, y):
+  '''
+  this is the add function for add in math 
+  this is for documentation
+  '''
   # if the type of x is int and 
   # if the type of y is also int 
   # then return (x + y)
